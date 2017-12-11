@@ -7,11 +7,11 @@
         </div>
         <div class="header-container-right">
           <ul class="ul-nav">
-            <li ><a class="active" href="">Features</a></li>
-            <li><a href="">Pricing</a></li>
-            <li><a href="">Blog</a></li>
-            <li><a href="">Login</a></li>
-            <li><a href="" >Try It Free</a></li>
+            <li><router-link to="/">HOME</router-link></li>
+            <li><router-link to="/deeply">DEEPLY ANALYZE</router-link></li>
+            <li><a href="">DAILY ANALYZE</a></li>
+            <li><a href="">CLASSIFY</a></li>
+            <!-- <li><a href="">TOP TRENDS</a></li> -->
           </ul>
         </div>
       </div>

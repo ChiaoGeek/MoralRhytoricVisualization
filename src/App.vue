@@ -30,7 +30,7 @@ body{
 }
 #app {
   width: 100%;
-  height: 2000px;
+  height: 100%;
   margin: 0px;
   padding: 0px;
   /*background-color: red;*/
